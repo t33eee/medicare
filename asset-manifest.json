@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/medicare/static/css/main.d9bcd6a8.chunk.css",
+    "main.js": "/medicare/static/js/main.aa5bbfdc.chunk.js",
+    "main.js.map": "/medicare/static/js/main.aa5bbfdc.chunk.js.map",
+    "runtime-main.js": "/medicare/static/js/runtime-main.56d9eff1.js",
+    "runtime-main.js.map": "/medicare/static/js/runtime-main.56d9eff1.js.map",
+    "static/js/2.d81be70a.chunk.js": "/medicare/static/js/2.d81be70a.chunk.js",
+    "static/js/2.d81be70a.chunk.js.map": "/medicare/static/js/2.d81be70a.chunk.js.map",
+    "index.html": "/medicare/index.html",
+    "precache-manifest.203a93fa9baeaefb9124b86277727088.js": "/medicare/precache-manifest.203a93fa9baeaefb9124b86277727088.js",
+    "service-worker.js": "/medicare/service-worker.js",
+    "static/css/main.d9bcd6a8.chunk.css.map": "/medicare/static/css/main.d9bcd6a8.chunk.css.map",
+    "static/js/2.d81be70a.chunk.js.LICENSE": "/medicare/static/js/2.d81be70a.chunk.js.LICENSE",
+    "static/media/App.scss": "/medicare/static/media/nurse-patient.fa928246.jpg",
+    "static/media/dentist.jpg": "/medicare/static/media/dentist.fa3afb88.jpg",
+    "static/media/doctor1.jpg": "/medicare/static/media/doctor1.7879b116.jpg",
+    "static/media/doctor2.jpg": "/medicare/static/media/doctor2.96790efd.jpg",
+    "static/media/doctor3.jpg": "/medicare/static/media/doctor3.14753287.jpg",
+    "static/media/doctors-intro.jpg": "/medicare/static/media/doctors-intro.25a1c275.jpg",
+    "static/media/font-awesome.min.css": "/medicare/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/header.jpg": "/medicare/static/media/header.4a00b529.jpg",
+    "static/media/logo.png": "/medicare/static/media/logo.c5c489f4.png",
+    "static/media/man-next.jpg": "/medicare/static/media/man-next.baf95805.jpg",
+    "static/media/meeting.jpg": "/medicare/static/media/meeting.ea7d8be4.jpg",
+    "static/media/nucleo.css": "/medicare/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/nurse-patient2.jpg": "/medicare/static/media/nurse-patient2.682dc851.jpg",
+    "static/media/nurse-patient3.jpg": "/medicare/static/media/nurse-patient3.d7520f7b.jpg",
+    "static/media/op-facility.jpg": "/medicare/static/media/op-facility.79586c4a.jpg",
+    "static/media/sugery.jpg": "/medicare/static/media/sugery.0a08a034.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56d9eff1.js",
+    "static/js/2.d81be70a.chunk.js",
+    "static/css/main.d9bcd6a8.chunk.css",
+    "static/js/main.aa5bbfdc.chunk.js"
+  ]
+}
