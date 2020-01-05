@@ -43,7 +43,7 @@ export default class About extends Component {
 								<img
 									src={doctors}
 									alt=""
-									className=" pl-4"
+									className=" pl-4 img-fluid"
 									style={{ width: 420, overflow: 'hidden' }}
 								/>
 							</div>
